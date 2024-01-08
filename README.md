@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966" width="1000"/>
+  <img src="[https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbootcamp.berkeley.edu%2Fblog%2Fhow-long-to-become-full-stack-developer%2F&psig=AOvVaw3fLiZ5ieyi4GGm9nChw7_1&ust=1704818127144000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDDkdCczoMDFQAAAAAdAAAAABAE)" width="1000"/>
 </div>
 <h1 align="center">Hi 👋, I'm Anant Pandey</h1>
 <h3 align="center">A passionate developer from India</h3>
